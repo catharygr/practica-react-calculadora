@@ -1,7 +1,7 @@
 .App {
   height: 100vh;
   padding-top: 10px;
-  background-color: #1B1B32;
+  background-color: #1b1b32;
   font-family: Lato, sans-serif;
   display: flex;
   flex-wrap: wrap;
@@ -25,7 +25,7 @@
 .contenedor-calculadora {
   width: 400px;
   height: 600px;
-  padding: 14pz;
+  padding: 14px;
   background-color: #99c9ff;
   border-radius: 20px;
   border: 5px solid white;
